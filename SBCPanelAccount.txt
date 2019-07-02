@@ -1,0 +1,5 @@
+| Domain: sbload.xyz
+| Ip: 149.56.193.58 (n)
+| HasCgi: y
+| UserName: sbxyz
+| PassWord: sbload.xyz@123
